@@ -4,8 +4,8 @@ git init
 r
 
 
-Crear un repositorio en Github llamado ProbandoGitIBQ (o lo que queráis).
- fotos/1.1png
+Crear un repositorio en Github llamado ProbandoGitIBQ (o lo que queráis).  
+![foto uno] (fotos/1.1png)
 Clonar el repositorio en local. 
 Crear (si no lo habéis hecho ya) en vuestro repositorio local un documento README.md. En este 
 documento es donde incluiréis el informe con las capturas de pantalla que consideréis 
